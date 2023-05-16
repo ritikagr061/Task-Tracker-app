@@ -6,7 +6,7 @@ https://ritik-task-tracker.netlify.app/
 
 Task tracker app in React is a web application built using the React JavaScript library that allows users to create, manage, and track their tasks or to-do lists. It provides a user interface where users can input tasks, mark them as complete, and organize them in various ways.
 
-Here are some key features typically found in a task tracker app built with React:
+Here are some key features built in the task tracker app built with React:
 
     1)Task Creation: Users can enter new tasks into the app, specifying details such as task name and any additional notes.
 
